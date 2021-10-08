@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0376773082294e9882baefe1aeae4ab9" Name="Diagram1">
+        <EntityTypeShape EntityType="PBLModel.CHI_TIET_DON_HANG" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.CHI_TIET_SAN_PHAM" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.CHI_TIET_THONG_KE" Width="1.5" PointX="8" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.HOA_DON" Width="1.5" PointX="6" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.NHAN_VIEN" Width="1.5" PointX="3.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.PHAN_QUYEN" Width="1.5" PointX="6" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.SAN_PHAM" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.sysdiagram" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PBLModel.THONG_KE" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <AssociationConnector Association="PBLModel.FK__CHI_TIET___MaDon__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__CHI_TIET___MaKha__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__CHI_TIET___MaSan__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__CHI_TIET___MaSan__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__CHI_TIET___MaDon__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__HOA_DON__MaKhach__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__HOA_DON__MaNhanV__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="PBLModel.FK__PHAN_QUYE__MaNha__2B3F6F97" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
