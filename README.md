@@ -15,4 +15,7 @@
 - Delete
 - Sort 
 # Image
-<img src="https://github.com/bduyphuong12/PBL3/issues/1#issue-1098077677" alt="" width="250" />
+<p align="center">
+<img src="https://github.com/bduyphuong12/PBL3/issues/1#issue-1098077677"  width="250" />
+</p>
+
