@@ -1,3 +1,18 @@
-# PBL3
-Shop Manager, PBL3 of DUT, use C#, SQL server
-Project use Entity Framework Database first, app can search, add, delete, update product in shop.
+# Shop Manager
+# PBL3 in DUT
+# Member
+- Bùi Duy Phương
+- Nguyễn Hồng Phúc
+- Trương Đình Huy
+- Lưu Văn Nghĩa
+# Language
+- C# Entity Framework Database first
+- SQL Server
+# Features
+- Show
+- Edit
+- Search
+- Delete
+- Sort 
+# Image
+
