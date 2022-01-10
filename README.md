@@ -16,6 +16,6 @@
 - Sort 
 # Image
 <p align="center">
-<img src="https://github.com/bduyphuong12/PBL3/issues/1#issue-1098077677"  width="250" />
+<img src="https://user-images.githubusercontent.com/65779951/148798302-b154e0c4-1310-47b4-8fc4-32c2fb10f106.png"  width="250" />
 </p>
 
